@@ -1,0 +1,7 @@
+name: sellmyhousefast-ealing-co-uk
+services:
+  - name: web
+    dockerfile_path: Dockerfile
+    http_port: 3000
+    routes:
+      - path: /
