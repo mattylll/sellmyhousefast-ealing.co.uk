@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sellmyhousefast-ealing.co.uk/sitemap.xml

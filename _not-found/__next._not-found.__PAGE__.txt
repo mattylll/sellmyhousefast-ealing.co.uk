@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24992,["/_next/static/chunks/3a9b0cefc8dbd065.js","/_next/static/chunks/b8fcf630635a16a9.js","/_next/static/chunks/72a79810973556ab.js"],""]
+3:I[86273,["/_next/static/chunks/3a9b0cefc8dbd065.js","/_next/static/chunks/b8fcf630635a16a9.js","/_next/static/chunks/72a79810973556ab.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"xZqgRsYPeyjhBS2EtrD75","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"py-24 md:py-32 bg-background","children":["$","div",null,{"className":"container mx-auto px-4 text-center max-w-2xl","children":[["$","h1",null,{"className":"text-6xl md:text-8xl font-bold text-foreground mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"Sorry, the page you are looking for does not exist or has been moved."}],["$","$L2",null,{"href":"/","className":"inline-flex items-center justify-center px-6 py-3 bg-accent text-background font-semibold rounded-lg hover:bg-accent/90 transition-colors","children":"Go Home"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
